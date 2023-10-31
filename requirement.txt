@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+scipy
+glob2
+tqdm
+scikit-image
+
+
